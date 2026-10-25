@@ -1,5 +1,3 @@
-#ifndef STACK_H
-#define STACK_H
 #include<iostream>
 #include<string>
 #include<cstdlib>
@@ -82,4 +80,3 @@ class Stack{
         }
      }
 };
-#endif
